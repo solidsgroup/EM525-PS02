@@ -31,7 +31,7 @@ debug: bin/main-debug
 #
 eigen: 
 	git clone https://gitlab.com/libeigen/eigen.git
-	mv eigen eigen3
+	mv eigen src/eigen3
 
 #
 # This recipe provides the instructions for
